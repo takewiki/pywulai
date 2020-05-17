@@ -10,7 +10,7 @@ from setuptools import find_packages
 
 setup(
     name = 'pywulai',
-    version = '1.0.1',
+    version = '1.0.2',
     install_requires=[
         'requests','pyrda'
     ],

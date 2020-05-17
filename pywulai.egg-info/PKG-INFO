@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: pywulai
+Version: 1.0.1
+Summary: reshape data wu lai open api in py language 
+Home-page: http://www.reshapedata.com
+Author: Reshapedata
+Author-email: hulilei@takewiki.com.cn
+License: Apache License
+Description: UNKNOWN
+Keywords: reshapedata,rdwulai
+Platform: UNKNOWN
+Requires-Python: >=3.6
